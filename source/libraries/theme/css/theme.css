@@ -15,7 +15,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #777777;
-  background: url(../img/body-bg.png) no-repeat center;
+  background: url(../../../images/body-bg.png) no-repeat center;
 }
 
 h1,
@@ -431,7 +431,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat top center;
+  background: url(../../../images/banners/home-banner.jpg) no-repeat top center;
   background-position: center;
   background-size: cover;
 }
@@ -522,7 +522,8 @@ button:focus {
   overflow: hidden;
   width: 100%;
   min-height: 485px;
-  background: url(../img/banner/common-banner.png) no-repeat right bottom;
+  background: url(../../../images/banners/common-banner.png) no-repeat right
+    bottom;
   background-size: 90% 85%;
   width: 98%;
   z-index: 1;
@@ -764,7 +765,7 @@ button:focus {
   position: absolute;
   top: -25px;
   left: -50px;
-  background: url(../img/client-info-bg.png) no-repeat;
+  background: url(../../../images/skills-frame.png) no-repeat;
   height: 175px;
   width: 175px;
 }
@@ -806,7 +807,7 @@ button:focus {
 }
 
 .subscription_box {
-  background: url(../img/subscribe-bg.png) no-repeat center;
+  background: url(../../../images/subscribe-bg.png) no-repeat center;
   padding: 150px 0px;
 }
 @media (max-width: 767px) {
