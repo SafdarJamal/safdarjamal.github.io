@@ -1,48 +1,46 @@
 {
-    "name": "OLX-PK",
-    "short_name": "OLX-PK",
-    "start_url": "/",
-    "background_color": "#D0D9DD",
-    "display": "standalone",
-    "theme_color": "#2475B0",
-    "icons": [
-        {
-            "src": "/images/favicons/android-icon-48x48.png",
-            "type": "image/png",
-            "sizes": "48x48"
-        },
-        {
-            "src": "/images/favicons/android-icon-72x72.png",
-            "type": "image/png",
-            "sizes": "72x72"
-        },
-        {
-            "src": "/images/favicons/android-icon-96x96.png",
-            "type": "image/png",
-            "sizes": "96x96"
-        },
-        {
-            "src": "/images/favicons/desktop-icon-144x144.png",
-            "type": "image/png",
-            "sizes": "144x144"
-        },
-        {
-            "src": "/images/favicons/apple-touch-icon.png",
-            "type": "image/png",
-            "sizes": "180x180"
-        },
-        {
-            "src": "/images/favicons/android-chrome-192x192.png",
-            "type": "image/png",
-            "sizes": "192x192"
-        },
-        {
-            "src": "/images/favicons/android-chrome-512x512.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        }
-    ],
-    "lang": "en-Us",
-    "description": "A OLX Replica Progressive Web App",
-    "orientation": "portrait-primary"
+  "name": "Safdar's Portfolio",
+  "short_name": "Safdar's Portfolio",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/favicons/android-chrome-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/images/favicons/android-chrome-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/images/favicons/android-chrome-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/favicons/desktop-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/favicons/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/images/favicons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/favicons/android-chrome-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "lang": "en-Us",
+  "description": "Safdar's Portfolio"
 }
