@@ -1,2 +1,1 @@
-# safdarjamal.github.io
-My Portfolio Site
+Personal Portfolio Site
